@@ -3,7 +3,7 @@ import wave
 import speech_recognition as sr
 import assemblyai as aai
 
-aai.settings.api_key = "428c5b7c15df4d98a79f2b94e19cf757"
+aai.settings.api_key = "#######################"
 
 
 def listen_audio():
