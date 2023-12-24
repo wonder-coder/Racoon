@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-GOOGLE_API_KEY="AIzaSyC3pLN_QqQYVRYA4lgxhgk0Oi4VPAHsISo"
+GOOGLE_API_KEY="######################"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 basic_prompt = ", act as if your name is racoon and you are very funny, your a chat bot so talk in one sentence, dont say anything bad"
